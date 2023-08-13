@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    text-align: center;
+    color: brown;
+    font-size: 2.5rem;
+    margin: 4rem;
+}
+.card-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.card{
+    text-align: center;
+}
+.reset-btn{
+    text-align: center;
+    margin: 4rem;
+}
+.btn{
+    padding: 12px 15px;
+    margin: 5px;
+    background-color: rgb(34 197 94);
+    border: none;
+    border-radius: 7px;
+    color: white;
+    cursor: pointer;
+}
+.headh{
+    margin: 1rem;
+}
+.color{
+    background-color: rgb(214, 101, 35);
+}
+.red{
+    background-color: red;
+}
